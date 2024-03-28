@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+Pengunaan
+
+-```mainAxisAlignment:MainAxisAlignment.spaceEvenly,```
+
+-```mainAxisAlignment:MainAxisAlignment.spaceBetween,```
+
+-```mainAxisAlignment:MainAxisAlignment.spaceAround,```
+
+-Spacer > memberikan space antar container
+
+-Flex > perbandingan space, disini adalah perbandingan space antar container
+
+- 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
